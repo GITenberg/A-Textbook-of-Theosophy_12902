@@ -1,0 +1,34 @@
+_repo: A-Textbook-of-Theosophy_12902
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leadbeater, C. W. (Charles Webster)
+    alias: Leadbeater, Charles Webster
+    birthdate: 1854
+    deathdate: 1934
+    gutenberg_agent_id: '4699'
+    url: http://www.gutenberg.org/2009/agents/4699
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Webster_Leadbeater
+description: We often speak of Theosophy as not in itself a religion, but the truth
+  which lies behind all religions alike. That is so; yet, from another point of view,
+  we may surely say that it is at once a philosophy, a religion and a science. It
+  is a philosophy, because it puts plainly before us an explanation of the scheme
+  of evolution of both the souls and the bodies contained in our solar system. It
+  is a religion in so far as, having shown us the course of ordinary evolution, it
+  also puts before us and advises a method of shortening that course, so that by conscious
+  effort we may progress more directl.
+gutenberg_bookshelf: Racism
+gutenberg_issued: '2004-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BP'
+- !lcsh 'Theosophy'
+- GITenberg
+title: A Textbook of Theosophy
+url: http://www.gutenberg.org/ebooks/12902
