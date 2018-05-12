@@ -1,5 +1,8 @@
 _repo: A-Textbook-of-Theosophy_12902
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Leadbeater, C. W. (Charles Webster)
@@ -17,6 +20,8 @@ description: We often speak of Theosophy as not in itself a religion, but the tr
   is a religion in so far as, having shown us the course of ordinary evolution, it
   also puts before us and advises a method of shortening that course, so that by conscious
   effort we may progress more directl.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12902#A-Textbook-of-Theosophy
 gutenberg_bookshelf: Racism
 gutenberg_issued: '2004-07-12'
 gutenberg_type: Text
